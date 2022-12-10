@@ -1,0 +1,5 @@
+# Excluding the big sqlite-databases.
+
+*.sqlite3
+de.sqlite3
+en.sqlite3
